@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="(https://64.media.tumblr.com/efcb46376a04229c15cc0f3b2ff416e2/59063849190c9dc6-5e/s640x960/7a41588b0dc0f048bb1676ab1e8ef4f66d221d2b.gif)" />
+  <img alaing=center alt="aigis" src="https://media1.tenor.com/m/oZKw6kmfKqsAAAAd/league-of-legends-hwei.gif" />
 </div>
