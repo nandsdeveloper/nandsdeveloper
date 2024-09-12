@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="(https://64.media.tumblr.com/422ad5e601697f9965e8834293959a23/59063849190c9dc6-b8/s500x750/37c7e06f5930aa6965f45e906b3cb6f480ebdcf2.gif)" />
+  <img alaing=center alt="aigis" src="https://64.media.tumblr.com/422ad5e601697f9965e8834293959a23/59063849190c9dc6-b8/s500x750/37c7e06f5930aa6965f45e906b3cb6f480ebdcf2.gif" />
 </div>
