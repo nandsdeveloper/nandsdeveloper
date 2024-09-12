@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Hwei_Animation_Concept_01.gif/revision/latest/scale-to-width-down/300?cb=20231128153546" />
+  <img alaing=center alt="aigis" src="(https://64.media.tumblr.com/422ad5e601697f9965e8834293959a23/59063849190c9dc6-b8/s500x750/37c7e06f5930aa6965f45e906b3cb6f480ebdcf2.gif)" />
 </div>
