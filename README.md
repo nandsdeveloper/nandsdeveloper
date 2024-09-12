@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="(https://media.tenor.com/1Nhi2bJuD1QAAAAM/spinning-hwei.gif)" />
+  <img alaing=center alt="aigis" src="https://cdnb.artstation.com/p/assets/images/images/070/970/121/original/thai-thanh-hwei-gif.gif?1704134439" />
 </div>
