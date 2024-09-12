@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=nandsdeveloper&show_icons=true&theme=chartreuse-dark"/> 
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandsdeveloper&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandsdeveloper&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 ##
