@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😜 Masterizando Ciência de Dados e Machine Learning
 
 <div align="center">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nandsdeveloper&show_icons=true&theme=chartreuse-dark"/> 
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=nandsdeveloper&show_icons=true&theme=chartreuse-dark"/> 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandsdeveloper&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
