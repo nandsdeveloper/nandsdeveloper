@@ -2,10 +2,10 @@
 
 
 
-- 📚 Atualmente no 8° semestre da faculdade de Ciência da Computação.
-- 😜 Masterizando Ciência de Dados e Machine Learning.
-- 📫 LinkedIn e Kaggle abaixo!
-- 😄 Atualmente trabalhando em projetos como autônomo, mas buscando um fixo preferencialmente na área de dados.
+- Cientista da computação
+- Trabalho com Marketing e Growth Comercial de Empresas 
+- Além da programação, também gosto muito de jogos, animes, filmes e esportes
+- Crio apps personalizados e projetos sob demanda (de todos os tipos)
 
 <div align="center">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=nandsdeveloper&show_icons=true&theme=chartreuse-dark"/> 
